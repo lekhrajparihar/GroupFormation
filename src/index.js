@@ -57,7 +57,7 @@ ReactDOM.render(
                         </Typography>
                         <div style={{marginLeft: 'auto'}}>
                             <IconButton aria-label="Github" style={{color: "white", justifySelf: "right"}}
-                                        onClick={() => window.open('https://github.com/anjaygoel')}>
+                                        onClick={() => window.open('https://github.com/lekhrajparihar')}>
                                 <GitHubIcon style={{color: "white", justifySelf: "right"}}/>
                             </IconButton>
                         </div>
