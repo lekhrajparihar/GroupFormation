@@ -1,6 +1,5 @@
 # GroupFormation
-A web-app that automates group formation for projects/assignments etc.  
-Based on [Stable-Roommate-Generalised](https://github.com/AnjayGoel/Stable-Roommate-Generalised)  
+A web-app that automates group formation for projects/assignments etc.   
   
 How to use:
 * Visit [Group Us](https://anjaygoel.github.io/GroupUs/)
